@@ -1,0 +1,3 @@
+const somaValores = (n1, n2) =>  n1 + n2;
+
+console.log(somaValores(1, 2));
